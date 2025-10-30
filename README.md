@@ -4,7 +4,7 @@
 ## 💻 Sobre mim:
 Olá, meu nome é Isabella, tenho 16 anos e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando técnico em desenvolvimento de sistemas no SENAI.
 
-- 🚀 Habilidades em desenvolvimento: Java, C#, Banco de Dados, JavaScript Backend, HTML5.
+- 🚀 Habilidades em desenvolvimento: C#, Banco de Dados, JavaScript Backend, Python e HTML5.
 - 🔥 Objetivo: Criar soluções inovadoras e eficientes.
 - 😎 Sempre estudando e buscando novos conhecimentos para evoluir na área de TI.
 - 💼 Buscando oportunidades para crescer e aplicar minhas habilidades.
