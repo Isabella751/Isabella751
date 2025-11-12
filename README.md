@@ -34,6 +34,10 @@ Olá, meu nome é **Isabella**. Tenho **16 anos** e estou em busca de novas expe
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📌 Projetos em andamento
+📖 Bibliotec
+Sistema de gerenciamento de livros feito em html, css e javascript na biblioteca do SENAI, permitindo um controle eficiente para o usuário e facilitando a vida dos alunos do curso técnico, que poderão consultar e reservar livros online.
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
