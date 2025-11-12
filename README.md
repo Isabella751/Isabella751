@@ -11,7 +11,6 @@ Olá, meu nome é **Isabella**. Tenho **16 anos** e estou em busca de novas expe
 
 ## 🛠️ Tecnologias & Ferramentas:
 
-
 **Linguagens & Marcação:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -34,8 +33,8 @@ Olá, meu nome é **Isabella**. Tenho **16 anos** e estou em busca de novas expe
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📌 Projetos em andamento
-## 📖 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto)
+## 📌 Projetos em andamento:
+## * 📖 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto)
 Sistema de gerenciamento de livros feito em HTML, CSS e JavaScript na biblioteca do SENAI, permitindo um controle eficiente para o usuário e facilitando a vida dos alunos do curso técnico, que poderão consultar e reservar livros online.
 
 ## 📊 Estatísticas do GitHub
