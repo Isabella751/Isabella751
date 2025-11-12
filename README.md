@@ -2,7 +2,7 @@
 # Isabella Leite
 
 ## 💻 Sobre mim:
-Olá, meu nome é **Isabella**, tenho **16 anos** e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no ![SENAI](https://img.shields.io/badge/SENAI-ED1C24?style=for-the-badge&logo=&logoColor=white)
+Olá, meu nome é **Isabella**, tenho **16 anos** e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no ![SENAI](https://img.shields.io/badge/SENAI-FF0000?style=for-the-badge&logoColor=white)
 .
 
 - 🚀 Habilidades em desenvolvimento: C#, Banco de Dados, JavaScript Backend, Python e HTML5.
