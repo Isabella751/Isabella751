@@ -36,7 +36,7 @@ Olá, meu nome é Isabella, tenho 16 anos e estou em busca de novas experiência
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isabella75&show_icons=true&theme=tokyonight&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=tokyonight&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Isabella751&theme=tokyonight&hide_border=false)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Isabella751&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
