@@ -2,7 +2,7 @@
 # Isabella Leite
 
 ## 💻 Sobre mim:
-Olá, meu nome é Isabella, tenho 16 anos e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando técnico em desenvolvimento de sistemas no SENAI.
+Olá, meu nome é **Isabella**, tenho **16 anos** e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
 
 - 🚀 Habilidades em desenvolvimento: C#, Banco de Dados, JavaScript Backend, Python e HTML5.
 - 🔥 Objetivo: Criar soluções inovadoras e eficientes.
@@ -36,8 +36,19 @@ Olá, meu nome é Isabella, tenho 16 anos e estou em busca de novas experiência
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=tokyonight&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Isabella751&theme=tokyonight&hide_border=false)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Isabella751&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-![Atividades](https://github-readme-activity-graph.vercel.app/graph?username=Isabella751&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Isabella751&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Isabella751&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isabella751&theme=tokyonight" alt="Atividades" />
+</p>
