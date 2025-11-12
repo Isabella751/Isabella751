@@ -36,6 +36,8 @@ Olá, meu nome é Isabella, tenho 16 anos e estou em busca de novas experiência
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Isabella751&color=blueviolet&style=for-the-badge)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Isabella75&show_icons=true&theme=tokyonight&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Isabella751&theme=tokyonight&hide_border=false)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Isabella751&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![Atividades](https://github-readme-activity-graph.vercel.app/graph?username=Isabella751&theme=tokyonight)
