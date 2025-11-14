@@ -49,9 +49,5 @@ Sistema de gerenciamento de livros feito em HTML, CSS e JavaScript na biblioteca
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isabella751&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Isabella751&theme=tokyonight" alt="Atividades" />
 </p>
