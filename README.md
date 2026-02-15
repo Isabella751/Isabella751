@@ -2,7 +2,7 @@
 # Isabella Leite dos Santos
 
 ## 💻 Sobre mim:
-Olá, meu nome é **Isabella**. Tenho **16 anos** e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
+Olá, meu nome é **Isabella**. Tenho **17 anos** e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
 
 - 🚀 Habilidades em desenvolvimento: C#, Banco de Dados, JavaScript Backend, Python e HTML5.
 - 🔥 Objetivo: Criar soluções inovadoras e eficientes.
