@@ -45,7 +45,6 @@ Sistema de gerenciamento de livros feito em HTML, CSS e JavaScript na biblioteca
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
