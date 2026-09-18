@@ -104,12 +104,6 @@ O projeto busca proporcionar uma experiência mais controlada nas redes sociais,
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Isabella751&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
