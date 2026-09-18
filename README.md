@@ -41,6 +41,9 @@ Olá, meu nome é **Isabella**. Tenho **17 anos** e estou em busca de novas expe
 ## • 📖 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto)
 Sistema de gerenciamento de livros feito em HTML, CSS e JavaScript na biblioteca do SENAI, permitindo um controle eficiente para o usuário e facilitando a vida dos alunos do curso técnico, que poderão consultar e reservar livros online.
 
+## • 📱 
+Aplicativo de rede social privada desenvolvido para compartilhar fotos e memórias com amigos de forma segura e controlada. Busca proporcionar uma experiência mais saudável nas redes sociais, com recursos de privacidade, controle de amizades, curtidas, denúncias e organização automática de memórias.
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
