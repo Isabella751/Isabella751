@@ -63,14 +63,14 @@ Sistema web de gerenciamento de biblioteca desenvolvido para o **SENAI**, permit
 
 ### ✨ Funcionalidades
 
-- 🔐 Sistema de login
-- 👤 Cadastro e perfil de usuário
-- 🔎 Busca de livros
-- 📚 Organização por categorias
-- 📖 Consulta de livros
-- 📌 Sistema de reserva
-- 🔑 Recuperação de senha
-- 🗄️ Integração com banco de dados
+-  Sistema de login
+-  Cadastro e perfil de usuário
+-  Busca de livros
+-  Organização por categorias
+-  Consulta de livros
+-  Sistema de reserva
+-  Recuperação de senha
+-  Integração com banco de dados
 
 🔗 **[Ver projeto no GitHub](LINK_DO_BIBLIOTEC)**
 
@@ -84,18 +84,18 @@ O projeto busca proporcionar uma experiência mais controlada nas redes sociais,
 
 ### 🛠️ Tecnologias
 
-`Flutter` `Dart` `...`
+`Flutter` `Dart` `MariaDB`
 
 ### ✨ Funcionalidades
 
-- 👥 Sistema de amizades
-- 🔒 Compartilhamento privado
-- ❤️ Curtidas e reações
-- 🚨 Denúncia de publicações
-- 🖼️ Compartilhamento de fotos
-- 📅 Organização de memórias
-- 👤 Perfis de usuários
-- 🔔 Notificações
+-  Sistema de amizades
+-  Compartilhamento privado
+-  Curtidas e reações
+-  Denúncia de publicações
+-  Compartilhamento de fotos
+-  Organização de memórias
+-  Perfis de usuários
+-  Notificações
 
 🔗 **[Ver projeto no GitHub](LINK_DO_SNAPLOCK)**
 
@@ -123,19 +123,3 @@ O projeto busca proporcionar uma experiência mais controlada nas redes sociais,
 - 🌐 Desenvolvimento Full Stack
 - 🔧 Git & GitHub
 - 🏗️ Arquitetura e desenvolvimento de aplicações
-
----
-
-# 🎯 Objetivos
-
-- Desenvolver experiência profissional na área de tecnologia.
-- Aprofundar meus conhecimentos em desenvolvimento Backend.
-- Criar aplicações completas e funcionais.
-- Trabalhar em projetos que resolvam problemas reais.
-- Continuar evoluindo como desenvolvedora.
-
----
-
-## 📫 Contato
-
-Estou aberta a oportunidades, projetos e experiências que contribuam para meu desenvolvimento profissional na área de tecnologia.
