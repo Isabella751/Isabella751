@@ -53,7 +53,7 @@ Busco constantemente desenvolver minhas habilidades por meio de projetos prátic
 
 # 🚀 Projetos em Destaque
 
-## 📚 [Bibliotec]
+## 📚 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto)
 
 Sistema web de gerenciamento de biblioteca desenvolvido para o **SENAI**, permitindo que usuários consultem e reservem livros de forma online.
 
