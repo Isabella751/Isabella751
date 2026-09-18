@@ -1,18 +1,27 @@
-
 # Isabella Leite dos Santos
 
-## 💻 Sobre mim:
-Olá, meu nome é **Isabella**. Tenho **17 anos** e estou em busca de novas experiências no mercado de trabalho. Estou sempre disposta a aprender e evoluir, gosto muito da tecnologia e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
+### 💻 Desenvolvedora de Sistemas | Backend & Full Stack em formação
 
-- 🚀 Habilidades em desenvolvimento: C#, Banco de Dados, JavaScript Backend, Python e HTML5.
-- 🌎 Inglês: Nível intermediário-avançado.
-- 🔥 Objetivo: Criar soluções inovadoras e eficientes.
-- 😎 Sempre estudando e buscando novos conhecimentos para evoluir na área de TI.
-- 💼 Buscando oportunidades para crescer e aplicar minhas habilidades.
+Estudante de **Técnico em Desenvolvimento de Sistemas no SENAI**, interessada em desenvolvimento de software, APIs, bancos de dados e criação de soluções eficientes.
 
-## 🛠️ Tecnologias & Ferramentas:
+Busco constantemente desenvolver minhas habilidades por meio de projetos práticos, estudos e novos desafios na área de tecnologia.
 
-**Linguagens & Marcação:**
+---
+
+## 💻 Sobre mim
+
+- 🚀 Experiência acadêmica com **C#, JavaScript, Python, HTML5 e Banco de Dados**.
+- 🌎 Inglês: **Nível intermediário-avançado**.
+- 🔥 Interesse em **Backend, APIs, Desenvolvimento Web e Banco de Dados**.
+- 📚 Atualmente estudando e aprimorando meus conhecimentos em desenvolvimento de sistemas.
+- 💼 Buscando oportunidades para adquirir experiência profissional e aplicar meus conhecimentos em projetos reais.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Linguagens & Marcação
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -21,7 +30,8 @@ Olá, meu nome é **Isabella**. Tenho **17 anos** e estou em busca de novas expe
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Ferramentas & Frameworks:**
+### ⚙️ Ferramentas & Frameworks
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -30,22 +40,102 @@ Olá, meu nome é **Isabella**. Tenho **17 anos** e estou em busca de novas expe
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Banco de Dados:**
+### 🗄️ Banco de Dados
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-**Sistemas Operacionais:**
+### 🖥️ Sistemas Operacionais
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📌 Projetos laboratoriais:
-## • 📖 [Bibliotec](https://github.com/Isabella751/Bibliotec-projeto)
-Sistema de gerenciamento de livros feito em HTML, CSS e JavaScript na biblioteca do SENAI, permitindo um controle eficiente para o usuário e facilitando a vida dos alunos do curso técnico, que poderão consultar e reservar livros online.
+---
 
-## • 📱 [SnapLock](https://github.com/llomarques/SnapLock-0.1)
-Aplicativo de rede social privada desenvolvido para compartilhar fotos e memórias com amigos de forma segura e controlada. Busca proporcionar uma experiência mais saudável nas redes sociais, com recursos de privacidade, controle de amizades, curtidas, denúncias e organização automática de memórias.
+# 🚀 Projetos em Destaque
 
-## 📊 Estatísticas do GitHub
+## 📚 Bibliotec
+
+Sistema web de gerenciamento de biblioteca desenvolvido para o **SENAI**, permitindo que usuários consultem e reservem livros de forma online.
+
+### 🛠️ Tecnologias
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `MariaDB`
+
+### ✨ Funcionalidades
+
+- 🔐 Sistema de login
+- 👤 Cadastro e perfil de usuário
+- 🔎 Busca de livros
+- 📚 Organização por categorias
+- 📖 Consulta de livros
+- 📌 Sistema de reserva
+- 🔑 Recuperação de senha
+- 🗄️ Integração com banco de dados
+
+🔗 **[Ver projeto no GitHub](LINK_DO_BIBLIOTEC)**
+
+---
+
+## 📱 SnapLock
+
+Aplicativo de rede social privada desenvolvido para compartilhar **fotos e memórias com amigos**, priorizando privacidade e controle sobre o conteúdo compartilhado.
+
+O projeto busca proporcionar uma experiência mais controlada nas redes sociais, com recursos voltados para privacidade, amizades e organização de memórias.
+
+### 🛠️ Tecnologias
+
+`Flutter` `Dart` `...`
+
+### ✨ Funcionalidades
+
+- 👥 Sistema de amizades
+- 🔒 Compartilhamento privado
+- ❤️ Curtidas e reações
+- 🚨 Denúncia de publicações
+- 🖼️ Compartilhamento de fotos
+- 📅 Organização de memórias
+- 👤 Perfis de usuários
+- 🔔 Notificações
+
+🔗 **[Ver projeto no GitHub](LINK_DO_SNAPLOCK)**
+
+---
+
+# 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Isabella751&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabella751&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Isabella751&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
+---
+
+# 📌 Atualmente estudando
+
+- 📱 Flutter & Dart
+- 🔌 Desenvolvimento de APIs
+- 🗄️ Banco de Dados
+- 🌐 Desenvolvimento Full Stack
+- 🔧 Git & GitHub
+- 🏗️ Arquitetura e desenvolvimento de aplicações
+
+---
+
+# 🎯 Objetivos
+
+- Desenvolver experiência profissional na área de tecnologia.
+- Aprofundar meus conhecimentos em desenvolvimento Backend.
+- Criar aplicações completas e funcionais.
+- Trabalhar em projetos que resolvam problemas reais.
+- Continuar evoluindo como desenvolvedora.
+
+---
+
+## 📫 Contato
+
+Estou aberta a oportunidades, projetos e experiências que contribuam para meu desenvolvimento profissional na área de tecnologia.
