@@ -53,7 +53,7 @@ Busco constantemente desenvolver minhas habilidades por meio de projetos prátic
 
 # 🚀 Projetos em Destaque
 
-## 📚 Bibliotec
+## 📚 [Bibliotec]
 
 Sistema web de gerenciamento de biblioteca desenvolvido para o **SENAI**, permitindo que usuários consultem e reservem livros de forma online.
 
@@ -72,11 +72,9 @@ Sistema web de gerenciamento de biblioteca desenvolvido para o **SENAI**, permit
 -  Recuperação de senha
 -  Integração com banco de dados
 
-🔗 **[Ver projeto no GitHub](LINK_DO_BIBLIOTEC)**
-
 ---
 
-## 📱 SnapLock
+## 📱 [SnapLock](https://github.com/llomarques/SnapLock-0.1)
 
 Aplicativo de rede social privada desenvolvido para compartilhar **fotos e memórias com amigos**, priorizando privacidade e controle sobre o conteúdo compartilhado.
 
@@ -96,8 +94,6 @@ O projeto busca proporcionar uma experiência mais controlada nas redes sociais,
 -  Organização de memórias
 -  Perfis de usuários
 -  Notificações
-
-🔗 **[Ver projeto no GitHub](LINK_DO_SNAPLOCK)**
 
 ---
 
